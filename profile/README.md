@@ -2,7 +2,7 @@
 
 [简体中文](./README_CN.md) | English
 
-FandMC builds **Fand**, a modern Minecraft server platform focused on clean plugin APIs, high-performance server internals, and a practical development workflow for Java plugin authors.
+FandMC is the team behind **Fand**, a modern Minecraft server platform focused on clean plugin APIs, high-performance server internals, and a practical development workflow for Java plugin authors.
 
 ## Projects
 
@@ -32,4 +32,4 @@ repositories {
 
 ## Status
 
-Fand is under active development. APIs may evolve before the first stable release, but the project is already building toward a complete plugin ecosystem.
+Fand is under active development. APIs may evolve before the first stable release, and the team is building the server, tooling, and documentation together.
