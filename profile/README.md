@@ -15,7 +15,7 @@ FandMC is the team behind **Fand**, a modern Minecraft server platform focused o
 
 Documentation:
 
-https://fandmc.cn
+https://docs.fandmc.cn
 
 Maven repository:
 
